@@ -51,10 +51,8 @@ Save the provided `TicTacToe.java` file in your VS Code workspace.
       "request": "launch",
       "mainClass": "TicTacToe",
       "vmArgs": "--module-path <path-to-javafx-lib> --add-modules javafx.controls,javafx.fxml"
-    }![WhatsApp Image 2024-12-03 at 21 07 27](https://github.com/user-attachments/assets/5b799a6b-a9f5-4c2b-8655-ff16a81a30fa)
-![WhatsApp Image 2024-12-03 at 21 07 27 (1)](https://github.com/user-attachments/assets/b83331d4-aa75-4449-8f89-5489afa36101)
-![WhatsApp Image 2024-12-03 at 21 07 26](https://github.com/user-attachments/assets/42ef9dc2-8761-427c-ae01-25ec4c22798b)
-![WhatsApp Image 2024-12-03 at 21 07 26 (1)](https://github.com/user-attachments/assets/494ba136-edd0-4815-9dca-e04949f49336)
-
+    }
 }
+
+
 
